@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z5U0yCTc2YOZMNGBBx9/GieAaQRdNWNcpgg6RBjlbuFK6BJjdGoxxQGLgdRoPQ+njA8L2L2MysdHpoA72Qp+9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elsen\\Desktop\\Boss.az-with-console-master\\boss.az\\boss.az.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elsen\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
